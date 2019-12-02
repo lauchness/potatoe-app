@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/potatoe-app/static/css/main.7549862c.chunk.css",
+    "main.js": "/potatoe-app/static/js/main.8ecf429a.chunk.js",
+    "main.js.map": "/potatoe-app/static/js/main.8ecf429a.chunk.js.map",
+    "runtime-main.js": "/potatoe-app/static/js/runtime-main.0083002b.js",
+    "runtime-main.js.map": "/potatoe-app/static/js/runtime-main.0083002b.js.map",
+    "static/js/2.2cb433bc.chunk.js": "/potatoe-app/static/js/2.2cb433bc.chunk.js",
+    "static/js/2.2cb433bc.chunk.js.map": "/potatoe-app/static/js/2.2cb433bc.chunk.js.map",
+    "index.html": "/potatoe-app/index.html",
+    "precache-manifest.8d89da8d175ae931e3509e2cf82e3b1e.js": "/potatoe-app/precache-manifest.8d89da8d175ae931e3509e2cf82e3b1e.js",
+    "service-worker.js": "/potatoe-app/service-worker.js",
+    "static/css/main.7549862c.chunk.css.map": "/potatoe-app/static/css/main.7549862c.chunk.css.map",
+    "static/media/dancing-tato.gif": "/potatoe-app/static/media/dancing-tato.ecc88a68.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0083002b.js",
+    "static/js/2.2cb433bc.chunk.js",
+    "static/css/main.7549862c.chunk.css",
+    "static/js/main.8ecf429a.chunk.js"
+  ]
+}
