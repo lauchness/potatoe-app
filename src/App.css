@@ -1,22 +1,38 @@
 .App {
+  position: relative;
   text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-}
-
-.App-header {
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #09d3ac;
+.sentence {
+  font-size: calc(10px + 2vmin);
+  color: white;
+  margin-bottom: 5rem;
+}
+
+.change-language {
+  background-color: red;
+  color: white;
+  height: 6rem;
+  width: 6rem;
+  border-radius: 50%;
+  border: none;
+  transition: all 0.25s ease;
+  z-index: 100;
+  outline: none;
+}
+
+.change-language:active {
+  background-color: green;
+  transform: translate3d(0, 0.25rem, 0);
+}
+
+.potatoe {
+  position: absolute;
+  bottom: 0;
 }
